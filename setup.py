@@ -28,7 +28,7 @@ setuptools.setup(
         "textblob",
         "nltk",
         "regex",
-        "xgboost>=0.82,<1.7",
+        "xgboost>=0.82,<2.1",
         "vaderSentiment",
         "imbalanced-learn>=0.10.1",
         "shap>=0.36.0",
