@@ -16,7 +16,7 @@ setuptools.setup(
     packages=setuptools.find_packages(exclude=("tests",)),
     install_requires=[
         "numpy>=1.24",
-        "pandas>=1.1.3, <2.0",
+        "pandas>=1.1.3, <3.0",
         "xlrd",
         "matplotlib>3.7.4",
         "beautifulsoup4",
