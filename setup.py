@@ -33,7 +33,7 @@ setuptools.setup(
         "imbalanced-learn>=0.10.1",
         "shap>=0.36.0",
         "imbalanced_ensemble>=0.2.0",
-        "scikit-learn>=0.24,<=1.2.2",
+        "scikit-learn>=0.24,<=1.5.0",
         "lightgbm>=3.0.0",
     ],
     classifiers=[
